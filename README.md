@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/zRyzonixZ-7/zRyzonixZ-7/assets/images/banner.png" alt="Profile Banner" width="760" style="border:1px solid #222; border-radius:16px; box-shadow:0 4px 32px -8px rgba(0,0,0,.4);"/>
+  <img src="https://github.com/zRyzonixZ-7/zRyzonixZ-7/blob/main/zRyzonixZ.png" alt="Profile Banner" width="760" style="border:1px solid #222; border-radius:16px; box-shadow:0 4px 32px -8px rgba(0,0,0,.4);"/>
 </p>
 
 <p align="center">
